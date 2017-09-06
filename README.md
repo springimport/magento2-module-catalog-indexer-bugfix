@@ -1,5 +1,5 @@
 # Catalog Indexer Bugfix
-Bugfix for catalog indexer. Necessary for Magento `<= 2.1.7`.
+Bugfix for catalog indexer. Necessary for Magento `<= 2.1.8`.
 
 [Github issue](https://github.com/magento/magento2/issues/8018), [StackOoerflow](https://magento.stackexchange.com/questions/157797/magento-2-how-to-override-abstract-class-for-product-category-indexing-issue).
 
